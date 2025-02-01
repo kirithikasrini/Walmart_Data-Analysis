@@ -1,0 +1,18 @@
+Business Problem Question 
+1. Find different payment and number of transactions,number of qyt sold
+2. Identity the highest rated category in each branch,displaying the branch category (AVG rating)
+3. Identity the busiest day for each branch based on the number of transactions.
+4. Calculate the total quantity of items sold per payment method.List payment method and total quantity.
+5. Determine the avgerage, minimum and maximum rating of category for each city . (list the city , avgerage-rating,min_rating and max-rating)
+6. -- Calculate the total profit for each category by considering total_profit as (unit_price * quantity * profit_margin). 
+ List category and total_profit, ordered from highest to lowest profit.
+7.Determine the most common payment method for each Branch. 
+.Display Branch and the preferred_payment_method.
+8.Categorize sales into 3 group MORNING, AFTERNOON, EVENING 
+Find out each of the shift and number of invoices
+9.Identify 5 branch with highest decrese ratio in 
+revevenue compare to last year(current year 2023 and last year 2022)
+(rdr == last_rev-cr_rev/ls_rev*100)
+10. which branches have the highest and lowest total sales?
+11. Which payment method is most frequent used?
+12. which categoties have the highest customer rating?
